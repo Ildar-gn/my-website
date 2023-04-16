@@ -1,3 +1,3 @@
 ## My first website
 
-Website [link](https://github.com/Ildar-gn).
+Website [link](https://ildar-gn.github.io/my-website/).
