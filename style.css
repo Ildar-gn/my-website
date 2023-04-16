@@ -71,8 +71,8 @@ body {
   margin: 0 0 40px;
   padding-left: 116px;
   width: 928px;
-  font-size: 104px;
-  line-height: 120px;
+  font-size: 86px;
+  line-height: 1.2;
   letter-spacing: -2px;
   font-weight: 400;
   color: #8da2ed;
@@ -80,9 +80,9 @@ body {
 
 .hero-image p {
   margin: 0;
-  padding-left: 128px;
-  padding-bottom: 16px;
-  font-size: 32px;
+  padding-left: 126px;
+  padding-bottom: 10px;
+  font-size: 20px;
   line-height: 48px;
 }
 
